@@ -1,0 +1,347 @@
+{
+  "entrySpaceId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+  "objects": {
+    "057ae281-3a4a-4918-adbe-81d17229ded5": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "057ae281-3a4a-4918-adbe-81d17229ded5",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Ranita_animacion_mosca.mp4"
+        }
+      },
+      "name": "Ranita_animacion_mosca",
+      "order": 0.7551412281164537,
+      "parentId": "c9c0f95d-e1b6-4f35-a635-c78249159b7e",
+      "position": [
+        0,
+        -1.734723475976807e-18,
+        0.014000000000000002
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        1.2246467991473532e-16,
+        -1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "2326f126-e4e4-4850-98f0-7637572ba1de": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "2326f126-e4e4-4850-98f0-7637572ba1de",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Ranita_animacion_salto.mp4"
+        }
+      },
+      "name": "Ranita_animacion_salto",
+      "order": 0.2277514532623265,
+      "parentId": "8accc305-68da-4771-a76d-127e7530d057",
+      "position": [
+        0,
+        -1.734723475976807e-18,
+        0.014000000000000002
+      ],
+      "rotation": [
+        1.1102230246251565e-16,
+        0,
+        1.2246467991473532e-16,
+        -1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "39560cff-1751-4d6b-acd6-0c1887a7e2c9": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.664,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 0.5625
+      },
+      "id": "39560cff-1751-4d6b-acd6-0c1887a7e2c9",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Ranita_animacion_saludo.mp4"
+        }
+      },
+      "name": "Ranita_animacion_saludo",
+      "order": 0.07694030930262696,
+      "parentId": "4c56275b-bcae-4d0b-90f1-3e9ec83169b0",
+      "position": [
+        0,
+        1.734723475976807e-18,
+        0.014000000000000002
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "4c56275b-bcae-4d0b-90f1-3e9ec83169b0": {
+      "components": {},
+      "geometry": null,
+      "id": "4c56275b-bcae-4d0b-90f1-3e9ec83169b0",
+      "imageTarget": {
+        "name": "Foto_escena_1"
+      },
+      "material": null,
+      "name": "Marcador · Foto_escena_1",
+      "order": 3.5,
+      "parentId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "658fd0c6-1486-43c7-b4b8-d1e5a514a8fa": {
+      "components": {},
+      "geometry": null,
+      "id": "658fd0c6-1486-43c7-b4b8-d1e5a514a8fa",
+      "light": {
+        "type": "directional",
+        "intensity": 1
+      },
+      "material": null,
+      "name": "Luz direccional",
+      "order": 2.5,
+      "parentId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "position": [
+        20,
+        50,
+        10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "8accc305-68da-4771-a76d-127e7530d057": {
+      "components": {},
+      "geometry": null,
+      "id": "8accc305-68da-4771-a76d-127e7530d057",
+      "imageTarget": {
+        "name": "Foto_escena_2"
+      },
+      "material": null,
+      "name": "Marcador · Foto_escena_2",
+      "order": 4.5,
+      "parentId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "8f4b6a06-5f99-4fca-a63a-1d68c20affdd": {
+      "camera": {
+        "type": "perspective",
+        "fov": 60,
+        "nearClip": 0.01,
+        "farClip": 1000,
+        "xr": {
+          "xrCameraType": "world",
+          "phone": "AR",
+          "desktop": "disabled",
+          "headset": "disabled",
+          "direction": "back"
+        }
+      },
+      "components": {},
+      "geometry": null,
+      "id": "8f4b6a06-5f99-4fca-a63a-1d68c20affdd",
+      "material": null,
+      "name": "Cámara",
+      "order": 0.5,
+      "parentId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "c48c3c54-9536-489f-b7e8-6a6cea6c8e47": {
+      "components": {},
+      "geometry": null,
+      "id": "c48c3c54-9536-489f-b7e8-6a6cea6c8e47",
+      "light": {
+        "type": "ambient"
+      },
+      "material": null,
+      "name": "Luz ambiental",
+      "order": 1.5,
+      "parentId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "position": [
+        10,
+        5,
+        5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "c9c0f95d-e1b6-4f35-a635-c78249159b7e": {
+      "components": {},
+      "geometry": null,
+      "id": "c9c0f95d-e1b6-4f35-a635-c78249159b7e",
+      "imageTarget": {
+        "name": "Foto_escena_3"
+      },
+      "material": null,
+      "name": "Marcador · Foto_escena_3",
+      "order": 5.5,
+      "parentId": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "spaces": {
+    "f623112e-b16c-4473-b8d2-ea7ba9744edf": {
+      "activeCamera": "8f4b6a06-5f99-4fca-a63a-1d68c20affdd",
+      "id": "f623112e-b16c-4473-b8d2-ea7ba9744edf",
+      "name": "Espacio principal"
+    }
+  }
+}

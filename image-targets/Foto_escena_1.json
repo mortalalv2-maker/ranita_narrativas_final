@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Foto_escena_1_luminance.png",
+  "resources": {
+    "originalImage": "Foto_escena_1_original.png",
+    "croppedImage": "Foto_escena_1_cropped.png",
+    "thumbnailImage": "Foto_escena_1_thumbnail.png",
+    "luminanceImage": "Foto_escena_1_luminance.png"
+  },
+  "name": "Foto_escena_1",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 852,
+    "left": 0,
+    "width": 2048,
+    "height": 2731,
+    "isRotated": false,
+    "originalWidth": 2048,
+    "originalHeight": 4435
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795372610770,
+  "updated": 1795372610770
+}
